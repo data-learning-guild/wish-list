@@ -1,0 +1,30 @@
+{
+	"name": "sample_wish",
+	"version": "1.0.0",
+	"description": "ryuckel",
+	"main": "index.js",
+	"scripts": {
+		"test": "test",
+		"stylelint": "stylelint 'scripts/*.js'",
+		"lint": "eslint 'scripts/*.js'"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ryuckel/shenlong_sample.git"
+	},
+	"keywords": [
+		"gas",
+		"clasp"
+	],
+	"author": "ryuckel",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ryuckel/shenlong_sample/issues"
+	},
+	"homepage": "https://github.com/ryuckel/shenlong_sample#readme",
+	"dependencies": {
+		"eslint": "^7.8.1",
+		"eslint-plugin-prettier": "^3.1.4",
+		"prettier": "^2.1.1"
+	}
+}
